@@ -11,7 +11,7 @@ public class DataTypes {
 			2.    non-primitive : Not Defined by Java (Class, Array, Object)	
 */
 		
-		int a = 10;
+		int a = 20;
 		int b = 25;
 		int c = a + b;
 		System.out.println(c);
