@@ -8,6 +8,8 @@ public class SingletonUse {
 		Singleton obj = Singleton.getInstance();
 		obj.demo();
 		
+		
+		
 	}
 
 }

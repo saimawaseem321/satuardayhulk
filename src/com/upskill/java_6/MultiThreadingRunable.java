@@ -6,7 +6,7 @@ public class MultiThreadingRunable implements Runnable{
 		try{
 			System.out.println("Thread Number # " + Thread.currentThread().getId());
 		} catch (Exception e){
-			e.printStackTrace();
+			System.out.println("Exception is caught");
 		}
 	}
 }

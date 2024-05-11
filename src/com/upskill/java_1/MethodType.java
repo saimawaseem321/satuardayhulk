@@ -9,7 +9,8 @@ public class MethodType extends Variables{
 	3.Return Type Method  
  */
 	
-	public static int hourlyIncome = 65;
+	
+		public static int hourlyIncome = 65;
 	
 	public static void main(String[] args) {
 		MethodType obj = new MethodType();
@@ -17,7 +18,6 @@ public class MethodType extends Variables{
 		
 		System.out.println("My Monthly Income = " + obj.monthlyIncomeReturn());
 		weeklyIncomeStatic();
-		
 	}
 	
 	//void Method
