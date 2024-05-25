@@ -12,11 +12,11 @@ public class DataTypes {
 */
 		
 		int a = 30;
-		int b = 55;
+		int b = 56;
 		int c = a + b;
 		System.out.println(c);
 		
-		String city = "New York";
+		String city = "east elmhurst";
 		String state = "NY";
 		
 		System.out.println(city);

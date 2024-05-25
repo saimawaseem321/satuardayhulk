@@ -4,9 +4,9 @@ public class IfElseStatement {
 
 	public static void main(String[] args) {
 		
-		int age = 105;
+		int age = 100;
 		
-		if (age < 13){										//Conditional Statement
+		if (age < 14){										//Conditional Statement
 			System.out.println("You are Children");
 		} else if (age>=13 && age <18){
 			System.out.println("You are Teenager");
